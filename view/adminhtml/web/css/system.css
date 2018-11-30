@@ -1,0 +1,7 @@
+.server-logo {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGwSURBVHhe7dixSgNREEbhvJ2djc9gY21hY2+h2FoIVoJgbeMLiGghAbUR7NMLIoSVCTNGl9wi+2/uOsv5YEDC3c16zKA4AQAA/8XW0V3DlMczla26iFmOZyqLg2ePc+bXEFAcAopDQHEIKA4BxSGgOAQUh4DiEFCctQPiLwKKCCgioIiAIgKKCCgioIiAIgKKCCgioIiAIgKKCCgioKhawMPr12bvYtq8zz78lXGoFnD/8nlx/fbJfXM7nfmr+VUL+Pk1b45v3n7e0L6217KL78czlcVBlX367FNo99o9f0q/0tUDGotm8ex+2Vd6kIBmLCsdz++ZyuJg37Kv9OABTeaV/hcBTdaVjuf1TGVxcNPs0xfvlWGl41k9U1kc3DQCdsQKC/glIuDPmI6yrmxbPL9nKouDfci8sm3VA2Zf2bZqAceysm3x/XimsjjY1cHVy+L67CvbVi2g/Ut/5/Qh/cq2VQvYF/tBxLP0NXbPruIenqksDg6NgCNDQBEBRQQUEVBEQBEBRQQUEVBEQBEBRQQUEVBEQBEBRQQUrR2QWT2eqWzVRcxyPBMAABjYZPINVz4JvuQd4kIAAAAASUVORK5CYII=');
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: auto 17px;
+    padding-left:25px;
+}
