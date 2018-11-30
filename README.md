@@ -1,5 +1,7 @@
 #Install via composer
-This package will give you a dump server, that collects all your dump call outputs, so that it does not interfere with HTTP / API responses.
+
+> This package will give you a dump server, that collects all your dump call outputs, so that it does not interfere with HTTP / API responses.
+
 ## Run from command line in project root
 - `composer require vdrahaniuk/magento2-dump-server`
 
